@@ -1,0 +1,46 @@
+[2025-05-07 20:28:32,459 INFO] using one-hot feature
+[2025-05-07 20:28:32,460 INFO] using model EGCN 
+[2025-05-07 20:30:29,083 INFO] using one-hot feature
+[2025-05-07 20:30:29,091 INFO] using model EGCN 
+[2025-05-07 20:30:29,095 INFO] not using hyper decoder
+[2025-05-07 20:30:29,096 INFO] tota length: 18, test length: 3
+[2025-05-07 20:39:42,459 INFO] using one-hot feature
+[2025-05-07 20:39:42,466 INFO] using model EGCN 
+[2025-05-07 20:39:42,469 INFO] not using hyper decoder
+[2025-05-07 20:39:42,470 INFO] tota length: 18, test length: 3
+[2025-05-07 20:42:06,470 INFO] using one-hot feature
+[2025-05-07 20:42:06,477 INFO] using model EGCN 
+[2025-05-07 20:42:06,482 INFO] not using hyper decoder
+[2025-05-07 20:42:06,482 INFO] tota length: 18, test length: 3
+[2025-05-07 20:42:17,918 INFO] using one-hot feature
+[2025-05-07 20:42:17,925 INFO] using model EGCN 
+[2025-05-07 20:42:17,929 INFO] not using hyper decoder
+[2025-05-07 20:42:17,929 INFO] tota length: 15, test length: 3
+[2025-05-07 20:42:21,378 INFO] ======================================================
+[2025-05-07 20:42:21,378 INFO] Epoch:20, Loss: 1.214, Time: 0.13, GPU: 21.8MiB
+[2025-05-07 20:42:21,379 INFO] Epoch:19, Best AUC: 0.5428, AP: 0.5457, Prec: 0.5319, Rec: 0.5514, New AUC: 0.5396, New AP: 0.5515, New Prec: 0.5337, New Rec: 0.5350
+[2025-05-07 20:42:24,035 INFO] ======================================================
+[2025-05-07 20:42:24,035 INFO] Epoch:40, Loss: 1.174, Time: 0.13, GPU: 21.8MiB
+[2025-05-07 20:42:24,036 INFO] Epoch:37, Best AUC: 0.5394, AP: 0.5496, Prec: 0.5320, Rec: 0.5698, New AUC: 0.5236, New AP: 0.5479, New Prec: 0.5145, New Rec: 0.5593
+[2025-05-07 20:42:27,117 INFO] ======================================================
+[2025-05-07 20:42:27,117 INFO] Epoch:60, Loss: 1.158, Time: 0.16, GPU: 21.8MiB
+[2025-05-07 20:42:27,118 INFO] Epoch:53, Best AUC: 0.5642, AP: 0.5811, Prec: 0.5407, Rec: 0.5823, New AUC: 0.5554, New AP: 0.5765, New Prec: 0.5354, New Rec: 0.5666
+[2025-05-07 20:42:30,237 INFO] ======================================================
+[2025-05-07 20:42:30,238 INFO] Epoch:80, Loss: 1.223, Time: 0.18, GPU: 21.8MiB
+[2025-05-07 20:42:30,238 INFO] Epoch:53, Best AUC: 0.5642, AP: 0.5811, Prec: 0.5407, Rec: 0.5823, New AUC: 0.5554, New AP: 0.5765, New Prec: 0.5354, New Rec: 0.5666
+[2025-05-07 20:42:33,314 INFO] Epoch:100 Test Metrics: AUC: 0.5541, AP: 0.5654, Precision: 0.5346, Recall: 0.5875
+[2025-05-07 20:42:33,315 INFO] Epoch:100 New Edge Metrics: AUC: 0.5524, AP: 0.5659, Precision: 0.5383, Recall: 0.5762
+[2025-05-07 20:42:33,315 INFO] ======================================================
+[2025-05-07 20:42:33,316 INFO] Epoch:100, Loss: 1.124, Time: 0.19, GPU: 21.8MiB
+[2025-05-07 20:42:33,316 INFO] Epoch:100, Best AUC: 0.5541, AP: 0.5654, Prec: 0.5346, Rec: 0.5875, New AUC: 0.5524, New AP: 0.5659, New Prec: 0.5383, New Rec: 0.5762
+[2025-05-07 20:42:36,562 INFO] ======================================================
+[2025-05-07 20:42:36,563 INFO] Epoch:120, Loss: 1.174, Time: 0.18, GPU: 21.8MiB
+[2025-05-07 20:42:36,563 INFO] Epoch:110, Best AUC: 0.5368, AP: 0.5584, Prec: 0.5146, Rec: 0.5352, New AUC: 0.5470, New AP: 0.5606, New Prec: 0.5306, New Rec: 0.5250
+[2025-05-07 20:42:39,592 INFO] ======================================================
+[2025-05-07 20:42:39,593 INFO] Epoch:140, Loss: 1.118, Time: 0.14, GPU: 21.8MiB
+[2025-05-07 20:42:39,593 INFO] Epoch:110, Best AUC: 0.5368, AP: 0.5584, Prec: 0.5146, Rec: 0.5352, New AUC: 0.5470, New AP: 0.5606, New Prec: 0.5306, New Rec: 0.5250
+[2025-05-07 20:42:42,696 INFO] ======================================================
+[2025-05-07 20:42:42,696 INFO] Epoch:160, Loss: 1.170, Time: 0.15, GPU: 21.8MiB
+[2025-05-07 20:42:42,696 INFO] Epoch:110, Best AUC: 0.5368, AP: 0.5584, Prec: 0.5146, Rec: 0.5352, New AUC: 0.5470, New AP: 0.5606, New Prec: 0.5306, New Rec: 0.5250
+[2025-05-07 20:42:42,878 INFO] >> Total time :  24.95
+[2025-05-07 20:42:42,879 INFO] >> Parameters: lr:0.0100 |Dim:16 |Window:5 |
